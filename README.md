@@ -1,3 +1,5 @@
+Projecto original, solo lo copie a mi repositorio por pequeñas modificaciones y para usarlo con google colab:sdsubhajitdas/Brain-Tumor-Segmentation
+https://github.com/sdsubhajitdas/Brain-Tumor-Segmentation
 # Brain Tumor Segmentation
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/sdsubhajitdas)
